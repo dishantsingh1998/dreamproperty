@@ -1,4 +1,4 @@
-<h1>Dream Property is a website which is used to Rent,Buy properties which are best in the city.Dream Property is Integrated with Paypal-Express-Checkout</h1>
+<h1>Dream Property is a website which is used to Rent/Buy properties which are best in the city.Dream Property is Integrated with Paypal-Express-Checkout</h1>
 
 **Mobile Responsive** :iphone:
 
